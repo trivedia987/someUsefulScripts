@@ -10,8 +10,6 @@ Powershell script, needs to be run with local admin creds.
 - Logged In user details
 
 ##### Output Format:
-#
-#
 > {
 >        "OSSummary": <OS Related Information>,
 >        "UpdateInfo": <Windows Update Related Info>,
